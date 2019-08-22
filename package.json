@@ -1,12 +1,21 @@
 {
   "name": "delayfor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple async delay that will return when given ms has passed",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": {
+    "name": "kentos",
+    "email": "eatindust@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/kentos/delayfor/issues"
+  },
+  "categories": [
+    "Other"
+  ],
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
