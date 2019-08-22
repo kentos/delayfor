@@ -1,6 +1,6 @@
 {
   "name": "delayfor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple async delay that will return when given ms has passed",
   "main": "index.js",
   "scripts": {
